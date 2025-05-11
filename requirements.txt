@@ -1,0 +1,7 @@
+torch
+dgl
+pandas
+scikit-learn
+fastapi
+uvicorn
+kaggle
